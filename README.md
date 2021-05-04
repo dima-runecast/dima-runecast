@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dima (@dima-runecast)
 - 💚 I’m interested in Vue.js and frontend technologies
-- 🌱 I’m currently learning design principles, algorithms and keeping up with the FE tech.
+- 🌱 I’m currently learning design principles, algorithms and keeping up with the FE tech
 - 🤙 You can always reach to me on slack
 
 <!---
