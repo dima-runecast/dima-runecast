@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dima (@dima-runecast)
+- 👋 Hi, I’m Dima @dima-runecast | [@dima000](https://github.com/dima000)
 - 💚 I’m interested in Vue.js and frontend technologies
 - 🌱 I’m currently learning algorithms, UI design practices, and keeping up with the FE tech
 - 🤙 You can always reach to me on slack
